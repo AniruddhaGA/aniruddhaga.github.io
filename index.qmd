@@ -1,0 +1,22 @@
+---
+title: "Aniruddha Girish Aramanekoppa"
+---
+
+# Introduction
+
+Research Engineer in Planetary Science at the Paris Observatory
+
+I work on detecting new exoplanets using astrometry, direct imaging and radial velocities.
+
+## Research Interests
+
+- Exoplanets
+- Astrometry
+- Direct Imaging
+- Radial Velocity
+- Transits
+- Spectroscopy
+
+## Contact
+
+aniruddha ["dot"] aramanekoppa ["at"] obspm ["dot"] fr
