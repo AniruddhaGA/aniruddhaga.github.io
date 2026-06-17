@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Description of your work.\n\n\n\nDescription of current projects."
+  },
+  {
+    "objectID": "research.html#galaxy-formation",
+    "href": "research.html#galaxy-formation",
+    "title": "Research",
+    "section": "",
+    "text": "Description of your work."
+  },
+  {
+    "objectID": "research.html#simulations",
+    "href": "research.html#simulations",
+    "title": "Research",
+    "section": "",
+    "text": "Description of current projects."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "default.html",
+    "href": "default.html",
+    "title": "astro-site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aniruddha Girish Aramanekoppa",
+    "section": "",
+    "text": "Research Engineer in Planetary Science at the Paris Observatory\nI work on detecting new exoplanets using astrometry, direct imaging and radial velocities.\n\n\n\nExoplanets\nAstrometry\nDirect Imaging\nRadial Velocity\nTransits\nSpectroscopy\n\n\n\n\naniruddha [“dot”] aramanekoppa [“at”] obspm [“dot”] fr"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Aniruddha Girish Aramanekoppa",
+    "section": "",
+    "text": "Exoplanets\nAstrometry\nDirect Imaging\nRadial Velocity\nTransits\nSpectroscopy"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Aniruddha Girish Aramanekoppa",
+    "section": "",
+    "text": "aniruddha [“dot”] aramanekoppa [“at”] obspm [“dot”] fr"
+  }
+]
