@@ -1,9 +1,16 @@
 # Research
 
-## Galaxy Formation
+## Exoplanetary Science
+My research at the Paris Observatory revolves around discovering new exoplanets around nearby solar-type stars. Detecting planets around stars similar to the Sun will reveal the demographics of planets and show us how common or rare our solar system's structure is.
 
-Description of your work.
+Techniques used:
 
-## Simulations
+- Astrometric data from the _Gaia_ spacecraft
+- Direct imaging data from groud-based observatories like the _Keck_ in Hawaii, and from space telescopes like the _Hubble Space Telescope_
+- Radial velocity (RV) data from surveys such as _SOPHIE_ and _HARPS_
 
-Description of current projects.
+I have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile.
+
+
+## Extragalatic Astrophysics
+As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the _James Webb Space Telescope_. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments.

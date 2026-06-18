@@ -1,5 +1,65 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+::: {.hero}
+# Professional Experience
+    
+**Research Engineer for CNRS in Exoplanetary Science at the Paris Observatory**
+
+<div style="display:flex; gap:24px; justify-content:center;">
+
+<img src="images/CNRS Logo.png" width="10%">
+<img src="images/LIRA Logo.png" width="60%">
+
+</div>
+
+I work on detecting new exoplanets using astrometry, direct imaging and radial velocities. I am part of the COBREX project, which is funded by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program.
+
+![](images/COBREX Logo.png){width=20%}
+![](images/ERC Logo.png){width=20%}
+
+:::
+
+
+# Education
+
+
+## Bachelor of Arts, Natural Sciences
+::: {.grid}
+::: {.g-col-6}
+**University of Cambridge**  
+_Physics specialisation_  
+October 2021 - June 2024  
+Cambridge, UK <img src="images/uk-flag.png" alt="UK flag" style="height:14px; vertical-align:middle;">
+:::
+::: {.g-col-6}
+<div class="logo-box">
+![](images/Cambridge.png){width=90%}
+</div>
+:::
+:::
+
+
+## Master of Science, Astronomy
+::: {.grid}
+::: {.g-col-6}
+**University of Sussex**  
+September 2024 - September 2025  
+Brighton, UK <img src="images/uk-flag.png" alt="UK flag" style="height:14px; vertical-align:middle;">
+:::
+::: {.g-col-6}
+![](images/Sussex.jpg){width=40% fig-align="center"}
+:::
+:::
+
+
+# Professional Training
+
+## ARIEL ExoClock Training Programme
+**Observatoire des Baronnies Provençales**  
+May 2026
+
+- Received training in performing observations at the Observatoire des Baronnies Provençales in the French Prealps.
+- Obtained exoplanet transit photometry by performing remote observations from Deep Sky Chile.
+- Analysed time-series using HOPS and Muniwin to detect transit timing variations (TTVs).

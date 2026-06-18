@@ -1,0 +1,73 @@
+# Conference Presentations
+
+## Elbereth 2026  
+::: {.grid}
+::: {.g-col-6}
+10 April 2026  
+**Institut d'astrophysique de Paris**  
+Paris, France <img src="images/fr-flag.png" alt="France flag" style="height:14px; vertical-align:middle;">  
+Contributed research talk: _Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry_  
+[My Presentation (PDF)](documents/Presentation.pdf){target="_blank"}
+:::
+::: {.g-col-6}
+<div class="logo-box">
+![](images/Elbereth.png){width=90%}
+</div>
+:::
+:::
+
+## ExoSystèmes V  
+::: {.grid}
+::: {.g-col-6}
+1 April 2026  
+**Institut d'astrophysique de Paris**  
+Paris, France <img src="images/fr-flag.png" alt="France flag" style="height:14px; vertical-align:middle;">  
+Poster presentation: _Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry_  
+[My Poster (PDF)](documents/Poster.pdf){target="_blank"}
+:::
+::: {.g-col-6}
+![](images/Exosystemes.png){width=90% fig-align="center"}
+:::
+:::
+
+## On the Shoulders of Giants  
+::: {.grid}
+::: {.g-col-6}
+25 March 2026  
+**Istituto Nazionale di Astrofisica**  
+Turin, Italy <img src="images/it-flag.png" alt="Italy flag" style="height:14px; vertical-align:middle;">  
+Poster presentation: _Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry_  
+[My Summary Slide (PDF)](documents/Summary Slide.pdf){target="_blank"}
+:::
+::: {.g-col-6}
+![](images/Giants.png){width=90% fig-align="center"}
+:::
+:::
+
+## MPIE 2025  
+::: {.grid}
+::: {.g-col-6}
+2 September 2025  
+**University of Sussex**  
+Brighton, UK <img src="images/uk-flag.png" alt="UK flag" style="height:14px; vertical-align:middle;">  
+Contributed research talk: _Probing the Stellar Populations of Distant Galaxies using the Balmer Break: Validating Galaxy Formation Models_
+:::
+::: {.g-col-6}
+<div class="logo-box">
+![](images/MPIE.png){width=90%}
+</div>
+:::
+:::
+
+## Cavendish Laboratory Poster Session  
+::: {.grid}
+::: {.g-col-6}
+12 February 2023  
+**University of Cambridge**  
+Cambridge, UK <img src="images/uk-flag.png" alt="UK flag" style="height:14px; vertical-align:middle;">  
+Poster presentation: _Atomic Spectral Lines_
+:::
+::: {.g-col-6}
+![](images/Cavendish.jpg){width=50% fig-align="center"}
+:::
+:::
