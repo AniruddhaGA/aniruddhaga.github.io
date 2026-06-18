@@ -4,28 +4,35 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Description of your work.\n\n\n\nDescription of current projects."
+    "text": "My research at the Paris Observatory revolves around discovering new exoplanets around nearby solar-type stars. Detecting planets around stars similar to the Sun will reveal the demographics of planets and show us how common or rare our solar system’s structure is.\nTechniques used:\n\nAstrometric data from the Gaia spacecraft\nDirect imaging data from groud-based observatories like the Keck in Hawaii, and from space telescopes like the Hubble Space Telescope\nRadial velocity (RV) data from surveys such as SOPHIE and HARPS\n\nI have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile.\n\n\n\nAs part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the James Webb Space Telescope. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments."
   },
   {
-    "objectID": "research.html#galaxy-formation",
-    "href": "research.html#galaxy-formation",
+    "objectID": "research.html#exoplanetary-science",
+    "href": "research.html#exoplanetary-science",
     "title": "Research",
     "section": "",
-    "text": "Description of your work."
+    "text": "My research at the Paris Observatory revolves around discovering new exoplanets around nearby solar-type stars. Detecting planets around stars similar to the Sun will reveal the demographics of planets and show us how common or rare our solar system’s structure is.\nTechniques used:\n\nAstrometric data from the Gaia spacecraft\nDirect imaging data from groud-based observatories like the Keck in Hawaii, and from space telescopes like the Hubble Space Telescope\nRadial velocity (RV) data from surveys such as SOPHIE and HARPS\n\nI have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile."
   },
   {
-    "objectID": "research.html#simulations",
-    "href": "research.html#simulations",
+    "objectID": "research.html#extragalatic-astrophysics",
+    "href": "research.html#extragalatic-astrophysics",
     "title": "Research",
     "section": "",
-    "text": "Description of current projects."
+    "text": "As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the James Webb Space Telescope. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
     "section": "",
-    "text": "About this site"
+    "text": "Blogs\nI have written several science blogs aimed at a general audience, which can be found at: The Science Teen\nThese blogs aim to explain fascinating topics such as the existence of life on Earth in an easy-to-understand way without much technical jargon."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Hobbies"
   },
   {
     "objectID": "default.html",
@@ -35,24 +42,129 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach and Teaching",
+    "section": "",
+    "text": "I was elected the Observation Secretary for the Cambridge University Astronomical Society for two terms (2022-2024). I operated the telescopes in the observatory, conducted training sessions and certified members to use the 190-year-old Northumberland Telescope. I also conducted several public stargazing nights, including one at a primary school in a nearby town.\n\n\n\nI gained experience as an assistant Physics teacher for Year 9 GCSE students at a local secondary school in Cambridge. I wrote a report titled “The effects of Inquiry-based learning on Physics Education” based on the outcome of my designed lesson.\n\n\n\nI have presented experiments at the Cambridge Hands-On Science fairs to school children on topics including robotics, polarisation, air pressure, scattering, and infrared light. I have also volunteered for the Sussex Astronomy department’s stall at the Lewes STEM Fair and presented our astronomy research to the public.\n\n\n\nI taught MIT’s block-based programming language ‘Scratch’ to Year 4 students at public schools in Oslo. I conducted the lessons in Norwegian and received pedagogical training from the Oslo Education Department (Utdanningsetaten)."
+  },
+  {
+    "objectID": "outreach.html#cambridge-university-astronomical-society-cuas",
+    "href": "outreach.html#cambridge-university-astronomical-society-cuas",
+    "title": "Outreach and Teaching",
+    "section": "",
+    "text": "I was elected the Observation Secretary for the Cambridge University Astronomical Society for two terms (2022-2024). I operated the telescopes in the observatory, conducted training sessions and certified members to use the 190-year-old Northumberland Telescope. I also conducted several public stargazing nights, including one at a primary school in a nearby town."
+  },
+  {
+    "objectID": "outreach.html#assistant-physics-teacher",
+    "href": "outreach.html#assistant-physics-teacher",
+    "title": "Outreach and Teaching",
+    "section": "",
+    "text": "I gained experience as an assistant Physics teacher for Year 9 GCSE students at a local secondary school in Cambridge. I wrote a report titled “The effects of Inquiry-based learning on Physics Education” based on the outcome of my designed lesson."
+  },
+  {
+    "objectID": "outreach.html#volunteer-at-science-fairs",
+    "href": "outreach.html#volunteer-at-science-fairs",
+    "title": "Outreach and Teaching",
+    "section": "",
+    "text": "I have presented experiments at the Cambridge Hands-On Science fairs to school children on topics including robotics, polarisation, air pressure, scattering, and infrared light. I have also volunteered for the Sussex Astronomy department’s stall at the Lewes STEM Fair and presented our astronomy research to the public."
+  },
+  {
+    "objectID": "outreach.html#programming-instructor-for-primary-school",
+    "href": "outreach.html#programming-instructor-for-primary-school",
+    "title": "Outreach and Teaching",
+    "section": "",
+    "text": "I taught MIT’s block-based programming language ‘Scratch’ to Year 4 students at public schools in Oslo. I conducted the lessons in Norwegian and received pedagogical training from the Oslo Education Department (Utdanningsetaten)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Research Engineer for CNRS in Exoplanetary Science at the Paris Observatory\n\n \n\nI work on detecting new exoplanets using astrometry, direct imaging and radial velocities. I am part of the COBREX project, which is funded by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program."
+  },
+  {
+    "objectID": "about.html#bachelor-of-arts-natural-sciences",
+    "href": "about.html#bachelor-of-arts-natural-sciences",
+    "title": "About Me",
+    "section": "Bachelor of Arts, Natural Sciences",
+    "text": "Bachelor of Arts, Natural Sciences\n\n\nUniversity of Cambridge\nPhysics specialisation\nOctober 2021 - June 2024\nCambridge, UK"
+  },
+  {
+    "objectID": "about.html#master-of-science-astronomy",
+    "href": "about.html#master-of-science-astronomy",
+    "title": "About Me",
+    "section": "Master of Science, Astronomy",
+    "text": "Master of Science, Astronomy\n\n\nUniversity of Sussex\nSeptember 2024 - September 2025\nBrighton, UK"
+  },
+  {
+    "objectID": "about.html#ariel-exoclock-training-programme",
+    "href": "about.html#ariel-exoclock-training-programme",
+    "title": "About Me",
+    "section": "ARIEL ExoClock Training Programme",
+    "text": "ARIEL ExoClock Training Programme\nObservatoire des Baronnies Provençales\nMay 2026\n\nReceived training in performing observations at the Observatoire des Baronnies Provençales in the French Prealps.\nObtained exoplanet transit photometry by performing remote observations from Deep Sky Chile.\nAnalysed time-series using HOPS and Muniwin to detect transit timing variations (TTVs)."
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conference Presentations",
+    "section": "",
+    "text": "10 April 2026\nInstitut d’astrophysique de Paris\nParis, France \nContributed research talk: Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry\nMy Presentation (PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n1 April 2026\nInstitut d’astrophysique de Paris\nParis, France \nPoster presentation: Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry\nMy Poster (PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n25 March 2026\nIstituto Nazionale di Astrofisica\nTurin, Italy \nPoster presentation: Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry\nMy Summary Slide (PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2 September 2025\nUniversity of Sussex\nBrighton, UK \nContributed research talk: Probing the Stellar Populations of Distant Galaxies using the Balmer Break: Validating Galaxy Formation Models\n\n\n\n\n\n\n\n\n\n\n\n\n12 February 2023\nUniversity of Cambridge\nCambridge, UK \nPoster presentation: Atomic Spectral Lines"
+  },
+  {
+    "objectID": "conferences.html#elbereth-2026",
+    "href": "conferences.html#elbereth-2026",
+    "title": "Conference Presentations",
+    "section": "",
+    "text": "10 April 2026\nInstitut d’astrophysique de Paris\nParis, France \nContributed research talk: Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry\nMy Presentation (PDF)"
+  },
+  {
+    "objectID": "conferences.html#exosystèmes-v",
+    "href": "conferences.html#exosystèmes-v",
+    "title": "Conference Presentations",
+    "section": "",
+    "text": "1 April 2026\nInstitut d’astrophysique de Paris\nParis, France \nPoster presentation: Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry\nMy Poster (PDF)"
+  },
+  {
+    "objectID": "conferences.html#on-the-shoulders-of-giants",
+    "href": "conferences.html#on-the-shoulders-of-giants",
+    "title": "Conference Presentations",
+    "section": "",
+    "text": "25 March 2026\nIstituto Nazionale di Astrofisica\nTurin, Italy \nPoster presentation: Searching for planetary companions around solar-type stars within 25 pc using Gaia astrometry\nMy Summary Slide (PDF)"
+  },
+  {
+    "objectID": "conferences.html#mpie-2025",
+    "href": "conferences.html#mpie-2025",
+    "title": "Conference Presentations",
+    "section": "",
+    "text": "2 September 2025\nUniversity of Sussex\nBrighton, UK \nContributed research talk: Probing the Stellar Populations of Distant Galaxies using the Balmer Break: Validating Galaxy Formation Models"
+  },
+  {
+    "objectID": "conferences.html#cavendish-laboratory-poster-session",
+    "href": "conferences.html#cavendish-laboratory-poster-session",
+    "title": "Conference Presentations",
+    "section": "",
+    "text": "12 February 2023\nUniversity of Cambridge\nCambridge, UK \nPoster presentation: Atomic Spectral Lines"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aniruddha Girish Aramanekoppa",
     "section": "",
-    "text": "Research Engineer in Planetary Science at the Paris Observatory\nI work on detecting new exoplanets using astrometry, direct imaging and radial velocities.\n\n\n\nExoplanets\nAstrometry\nDirect Imaging\nRadial Velocity\nTransits\nSpectroscopy\n\n\n\n\naniruddha [“dot”] aramanekoppa [“at”] obspm [“dot”] fr"
+    "text": "Hello! I am an astronomy research engineer at the Paris Observatory. I work on the detection of new exoplanets around nearby stars using several techniques. Check out my About Me and Research pages for more information about my work!"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Aniruddha Girish Aramanekoppa",
-    "section": "",
-    "text": "Exoplanets\nAstrometry\nDirect Imaging\nRadial Velocity\nTransits\nSpectroscopy"
+    "section": "Research Interests",
+    "text": "Research Interests\n\nExoplanets\nAstrometry\nDirect Imaging\nRadial Velocity\nTransits\nSpectroscopy"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Aniruddha Girish Aramanekoppa",
-    "section": "",
-    "text": "aniruddha [“dot”] aramanekoppa [“at”] obspm [“dot”] fr"
+    "section": "Contact",
+    "text": "Contact\naniruddha [“dot”] aramanekoppa [“at”] obspm [“dot”] fr"
   }
 ]
