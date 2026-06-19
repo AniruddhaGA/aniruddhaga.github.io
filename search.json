@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research at the Paris Observatory revolves around discovering new exoplanets around nearby solar-type stars. Detecting planets around stars similar to the Sun will reveal the demographics of planets and show us how common or rare our solar system’s structure is.\nTechniques used:\n\nAstrometric data from the Gaia spacecraft\nDirect imaging data from groud-based observatories like the Keck in Hawaii, and from space telescopes like the Hubble Space Telescope\nRadial velocity (RV) data from surveys such as SOPHIE and HARPS\n\nI have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile.\n\n\n\nAs part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the James Webb Space Telescope. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments."
+    "text": "My research at the Paris Observatory revolves around discovering new exoplanets around nearby solar-type stars. Detecting planets around stars similar to the Sun will reveal the demographics of planets and show us how common or rare our solar system’s structure is.\nTechniques used:\n\nAstrometric data from the Gaia spacecraft\nDirect imaging data from groud-based observatories like the Keck in Hawaii, and from space telescopes like the Hubble Space Telescope\nRadial velocity (RV) data from surveys such as SOPHIE and HARPS\n\nI have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile.\n\n\n\nFor the Google Science Fair in 2019, I proposed a novel method for detecting solar system objects using blocked starlight. My project was selected as one of the top 100 projects globally and top 32 in the EMEA region. During my undergrad at Cambridge, I completed a literature review on the rotation and trajectory of the interstellar object “1I/’Oumuamua”, which highlighted the challenges involved incharacterising newly discovered objects.\n\n\n\nAs part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the James Webb Space Telescope. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments through the JWST Advanced Extragalatic Survey (JADES). This project was selected for a contributed talk at the MPIE 2025 conference at the University of Sussex. To eliminate any sample bias in my investigation, I am working on extending my analysis to a larger population of galaxies by analysing the DAWN JWST Archive."
   },
   {
     "objectID": "research.html#exoplanetary-science",
@@ -14,11 +14,18 @@
     "text": "My research at the Paris Observatory revolves around discovering new exoplanets around nearby solar-type stars. Detecting planets around stars similar to the Sun will reveal the demographics of planets and show us how common or rare our solar system’s structure is.\nTechniques used:\n\nAstrometric data from the Gaia spacecraft\nDirect imaging data from groud-based observatories like the Keck in Hawaii, and from space telescopes like the Hubble Space Telescope\nRadial velocity (RV) data from surveys such as SOPHIE and HARPS\n\nI have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile."
   },
   {
+    "objectID": "research.html#solar-system-science",
+    "href": "research.html#solar-system-science",
+    "title": "Research",
+    "section": "",
+    "text": "For the Google Science Fair in 2019, I proposed a novel method for detecting solar system objects using blocked starlight. My project was selected as one of the top 100 projects globally and top 32 in the EMEA region. During my undergrad at Cambridge, I completed a literature review on the rotation and trajectory of the interstellar object “1I/’Oumuamua”, which highlighted the challenges involved incharacterising newly discovered objects."
+  },
+  {
     "objectID": "research.html#extragalatic-astrophysics",
     "href": "research.html#extragalatic-astrophysics",
     "title": "Research",
     "section": "",
-    "text": "As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the James Webb Space Telescope. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments."
+    "text": "As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the James Webb Space Telescope. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments through the JWST Advanced Extragalatic Survey (JADES). This project was selected for a contributed talk at the MPIE 2025 conference at the University of Sussex. To eliminate any sample bias in my investigation, I am working on extending my analysis to a larger population of galaxies by analysing the DAWN JWST Archive."
   },
   {
     "objectID": "blogs.html",
@@ -32,7 +39,7 @@
     "href": "hobbies.html",
     "title": "Hobbies",
     "section": "",
-    "text": "Hobbies"
+    "text": "Page under construction…"
   },
   {
     "objectID": "default.html",
@@ -102,7 +109,35 @@
     "href": "about.html#ariel-exoclock-training-programme",
     "title": "About Me",
     "section": "ARIEL ExoClock Training Programme",
-    "text": "ARIEL ExoClock Training Programme\nObservatoire des Baronnies Provençales\nMay 2026\n\nReceived training in performing observations at the Observatoire des Baronnies Provençales in the French Prealps.\nObtained exoplanet transit photometry by performing remote observations from Deep Sky Chile.\nAnalysed time-series using HOPS and Muniwin to detect transit timing variations (TTVs)."
+    "text": "ARIEL ExoClock Training Programme\n\n\nObservatoire des Baronnies Provençales\nMay 2026\nMoydans, France \n\nReceived training in performing observations at the Observatoire des Baronnies Provençales in the French Prealps.\nObtained exoplanet transit photometry by performing remote observations from Deep Sky Chile.\nAnalysed time-series using HOPS and Muniwin to detect transit timing variations (TTVs)."
+  },
+  {
+    "objectID": "about.html#programming",
+    "href": "about.html#programming",
+    "title": "About Me",
+    "section": "Programming",
+    "text": "Programming\n\n5 years of experience with Python-based data analysis\nAnalysis of FITS files for JWST spectroscopy and photometry\nExoplanet detection using Gaia astrometry with GaiaPMEX\nLibraries used: NumPy, Pandas, SciPy, Astropy, Cosmos-Synthesizer, Matplotlib, Emcee, Unyt"
+  },
+  {
+    "objectID": "about.html#astronomy",
+    "href": "about.html#astronomy",
+    "title": "About Me",
+    "section": "Astronomy",
+    "text": "Astronomy\n\nAmateur astronomer since 2016, with experience using binoculars and telescopes to observe Solar System objects such as planets and comets, and deep-sky objects such as galaxies and nebulae\nExperience in astrophotography of the Moon, planets, and deep-sky objects. Notable images include the 2020 Jupiter-Saturn conjunction, and a double solar eclipse on Jupiter by the moons Europa and Ganymede\nCertified and trained to operate the Northumberland telescope at Cambridge, which is a 200-year old 12-inch refractor"
+  },
+  {
+    "objectID": "about.html#lab-and-instrumentation",
+    "href": "about.html#lab-and-instrumentation",
+    "title": "About Me",
+    "section": "Lab and instrumentation",
+    "text": "Lab and instrumentation\n\nSpectroscopy & diffractometers: characterisation of molecules and crystal lattices\nOscilloscopes and signal generators: investigation of various op-amp circuits\nWavetanks: analysis of wave propagation and attenuation\nOptical benches (with lenses, mirrors, and lasers to measure diffraction), optical microscopy\nExperience using Micro:bits to build clocks and step counters"
+  },
+  {
+    "objectID": "about.html#d-design-and-printing",
+    "href": "about.html#d-design-and-printing",
+    "title": "About Me",
+    "section": "3D design and printing",
+    "text": "3D design and printing\n\nExperience using 3D printers and scanners to create a space capsule model to test aerodynamic forces, and a gear system for a clock."
   },
   {
     "objectID": "conferences.html",
@@ -165,6 +200,6 @@
     "href": "index.html#contact",
     "title": "Aniruddha Girish Aramanekoppa",
     "section": "Contact",
-    "text": "Contact\naniruddha [“dot”] aramanekoppa [“at”] obspm [“dot”] fr"
+    "text": "Contact\nLinkedIn: https://www.linkedin.com/in/aniruddha-aramanekoppa/\naniruddha [“dot”] aramanekoppa [“at”] obspm [“dot”] fr"
   }
 ]

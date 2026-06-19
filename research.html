@@ -287,6 +287,10 @@ gtag('config', 'G-MC03J6YKXQ', { 'anonymize_ip': true});
     <a class="nav-link" href="./blogs.html"> 
 <span class="menu-text">Blogs</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./hobbies.html"> 
+<span class="menu-text">Hobbies</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -307,6 +311,7 @@ gtag('config', 'G-MC03J6YKXQ', { 'anonymize_ip': true});
   <li><a href="#research" id="toc-research" class="nav-link active" data-scroll-target="#research">Research</a>
   <ul class="collapse">
   <li><a href="#exoplanetary-science" id="toc-exoplanetary-science" class="nav-link" data-scroll-target="#exoplanetary-science">Exoplanetary Science</a></li>
+  <li><a href="#solar-system-science" id="toc-solar-system-science" class="nav-link" data-scroll-target="#solar-system-science">Solar System Science</a></li>
   <li><a href="#extragalatic-astrophysics" id="toc-extragalatic-astrophysics" class="nav-link" data-scroll-target="#extragalatic-astrophysics">Extragalatic Astrophysics</a></li>
   </ul></li>
   </ul>
@@ -332,9 +337,13 @@ gtag('config', 'G-MC03J6YKXQ', { 'anonymize_ip': true});
 </ul>
 <p>I have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile.</p>
 </section>
+<section id="solar-system-science" class="level2">
+<h2 class="anchored" data-anchor-id="solar-system-science">Solar System Science</h2>
+<p>For the Google Science Fair in 2019, I proposed a novel method for detecting solar system objects using blocked starlight. My project was selected as one of the top 100 projects globally and top 32 in the EMEA region. During my undergrad at Cambridge, I completed a literature review on the rotation and trajectory of the interstellar object “1I/’Oumuamua”, which highlighted the challenges involved incharacterising newly discovered objects.</p>
+</section>
 <section id="extragalatic-astrophysics" class="level2">
 <h2 class="anchored" data-anchor-id="extragalatic-astrophysics">Extragalatic Astrophysics</h2>
-<p>As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the <em>James Webb Space Telescope</em>. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments.</p>
+<p>As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the <em>James Webb Space Telescope</em>. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments through the JWST Advanced Extragalatic Survey (JADES). This project was selected for a contributed talk at the MPIE 2025 conference at the University of Sussex. To eliminate any sample bias in my investigation, I am working on extending my analysis to a larger population of galaxies by analysing the DAWN JWST Archive.</p>
 
 
 </section>
@@ -427,7 +436,7 @@ gtag('config', 'G-MC03J6YKXQ', { 'anonymize_ip': true});
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/aniruddhaga\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
