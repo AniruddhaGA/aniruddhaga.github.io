@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Aniruddha Aramanekoppa"
+  site-url: https://aniruddhaga.github.io
+  #sitemap: true
   google-analytics: "G-MC03J6YKXQ"
   navbar:
     left:
@@ -18,6 +20,8 @@ website:
         text: Outreach
       - href: blogs.qmd
         text: Blogs
+      - href: hobbies.qmd
+        text: Hobbies
 
 format:
   html:

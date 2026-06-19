@@ -57,9 +57,46 @@ Brighton, UK <img src="images/uk-flag.png" alt="UK flag" style="height:14px; ver
 # Professional Training
 
 ## ARIEL ExoClock Training Programme
+::: {.grid}
+::: {.g-col-9}
 **Observatoire des Baronnies Provençales**  
-May 2026
+May 2026  
+Moydans, France <img src="images/fr-flag.png" alt="France flag" style="height:14px; vertical-align:middle;">
 
 - Received training in performing observations at the Observatoire des Baronnies Provençales in the French Prealps.
 - Obtained exoplanet transit photometry by performing remote observations from Deep Sky Chile.
 - Analysed time-series using HOPS and Muniwin to detect transit timing variations (TTVs).
+
+:::
+::: {.g-col-3}
+![](images/ARIEL France.jpg){width=90% fig-align="center"}
+:::
+:::
+
+
+# Technical Skills
+
+## Programming
+
+- 5 years of experience with Python-based data analysis
+- Analysis of FITS files for JWST spectroscopy and photometry
+- Exoplanet detection using Gaia astrometry with GaiaPMEX
+- Libraries used: NumPy, Pandas, SciPy, Astropy, Cosmos-Synthesizer, Matplotlib, Emcee, Unyt
+
+## Astronomy
+
+- Amateur astronomer since 2016, with experience using binoculars and telescopes to observe Solar System objects such as planets and comets, and deep-sky objects such as galaxies and nebulae
+- Experience in astrophotography of the Moon, planets, and deep-sky objects. Notable images include the 2020 Jupiter-Saturn conjunction, and a double solar eclipse on Jupiter by the moons Europa and Ganymede
+- Certified and trained to operate the Northumberland telescope at Cambridge, which is a 200-year old 12-inch refractor
+
+## Lab and instrumentation
+
+- Spectroscopy & diffractometers: characterisation of molecules and crystal lattices
+- Oscilloscopes and signal generators: investigation of various op-amp circuits
+- Wavetanks: analysis of wave propagation and attenuation
+- Optical benches (with lenses, mirrors, and lasers to measure diffraction), optical microscopy
+- Experience using Micro:bits to build clocks and step counters
+
+## 3D design and printing
+
+- Experience using 3D printers and scanners to create a space capsule model to test aerodynamic forces, and a gear system for a clock.

@@ -12,5 +12,9 @@ Techniques used:
 I have also performed transit photometry observations to analyse the transit timing variations (TTVs) as part of the ARIEL ExoClock Programme. This programme aimed to contribute to the ephemirides for the upcoming ARIEL space telescope. Our observations were performed from Observatoire des Baronnies Provençales and Deep Sky Chile.
 
 
+## Solar System Science
+For the Google Science Fair in 2019, I proposed a novel method for detecting solar system objects using blocked starlight. My project was selected as one of the top 100 projects globally and top 32 in the EMEA region. During my undergrad at Cambridge, I completed a literature review on the rotation and trajectory of the interstellar object “1I/’Oumuamua”, which highlighted the challenges involved incharacterising newly discovered objects.
+
+
 ## Extragalatic Astrophysics
-As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the _James Webb Space Telescope_. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments.
+As part of my MSc thesis, I have studied the population of stars in distant (high-redshift) galaxies using the _James Webb Space Telescope_. My work mainly involved using the spectroscopy and photometry collected by the NIRSpec and NIRCam instruments through the JWST Advanced Extragalatic Survey (JADES). This project was selected for a contributed talk at the MPIE 2025 conference at the University of Sussex. To eliminate any sample bias in my investigation, I am working on extending my analysis to a larger population of galaxies by analysing the DAWN JWST Archive.

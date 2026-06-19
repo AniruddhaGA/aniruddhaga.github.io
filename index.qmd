@@ -5,7 +5,7 @@ title: "Aniruddha Girish Aramanekoppa"
 ::: {.hero}
 # Introduction
 
-Hello! I am an astronomy research engineer at the Paris Observatory. I work on the detection of new exoplanets around nearby stars using several techniques. Check out my [About Me](about.qmd) and [Research](researchx.qmd) pages for more information about my work!
+Hello! I am an astronomy research engineer at the Paris Observatory. I work on the detection of new exoplanets around nearby stars using several techniques. Check out my [About Me](about.qmd) and [Research](research.qmd) pages for more information about my work!
 
 
 <div style="display:flex; gap:24px; justify-content:center;">
@@ -38,6 +38,8 @@ Hello! I am an astronomy research engineer at the Paris Observatory. I work on t
 ::: {.card}
 
 ## Contact
+
+LinkedIn: <https://www.linkedin.com/in/aniruddha-aramanekoppa/>
 
 aniruddha ["dot"] aramanekoppa ["at"] obspm ["dot"] fr
 
